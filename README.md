@@ -1,14 +1,13 @@
 ### Olá pessoal 👋
 
 ##### Sobre o Edson Wander 
-Sou um profissional recém-formado em Ciência da Computação, atualmente cursando um MBA em Engenharia de Software e com formação técnica em Automação Industrial. Busco oportunidades de estágio ou projetos acadêmicos para aplicar e aprimorar meus conhecimentos e habilidades na área de automação e desenvolvimento de software. Minha formação técnica em Automação Industrial forneceu uma base sólida em sistemas de controle e processos industriais. A graduação em Ciência da Computação expandiu meu conhecimento em programação, algoritmos e resolução de problemas, preparando-me para desafios na área de tecnologia. Atualmente, atuo como professor de tecnologia em uma escola municipal. Minha experiência como professor me permitiu desenvolver habilidades de ensino e comunicação, além de aprofundar meu conhecimento em tecnologia da informação. Trabalho com alunos de diversas idades, promovendo o aprendizado de conceitos de informática, programação e tecnologias relacionadas. Acredito na importância de capacitar a próxima geração de profissionais de tecnologia, estou ansioso para contribuir em projetos acadêmicos, participar de grupos de pesquisa e colaborar com profissionais da área para adquirir experiência prática. 
+Sou formado em Ciência da Computação, com licenciaturas em Matemática, Física e Informática, além de formação técnica em Automação Industrial. Concluí um MBA em Engenharia de Software pela USP/Esalq e atualmente curso o Mestrado em Computação na Universidade Federal Fluminense (UFF), com foco em Segurança da Informação e Educação.
+Atuo como professor de matemática na rede pública de ensino,além de desenvolver projetos pedagógicos voltados ao ensino de informática, programação e cultura digital para crianças e adolescentes. 
+Tenho interesse em projetos que integrem desenvolvimento de software, segurança da informação, educação e inovação tecnológica. Estou aberto a colaborar em iniciativas acadêmicas, grupos de pesquisa, projetos open source e desenvolvimento de soluções educacionais. Acredito no poder transformador da tecnologia e na importância de formar uma geração crítica, consciente e segura no uso dos recursos digitais.
+
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdWander&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Projeto
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdWander&repo=Tik-Tok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
